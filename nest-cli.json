@@ -1,5 +1,5 @@
 {
-  "$scha": "https://json.schemastore.org/nest-cli",
+  "$sch": "https://json.schemastore.org/nest-cli",
   "collection": "@nestjs/schematics",
   "sourceRoot": "src"
 }
